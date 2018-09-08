@@ -1,3 +1,10 @@
+# Engineering Principles
+
+These are principles I've come to understand and embrace throughout my career.
+They are ideals I aspire to when I design, build, and manage systems. There are
+certainly edge cases where they may not always apply but, for the most part,
+I believe these hold.
+
 1. We write software for, and with, other people.
     1. Engineering is a social endeavor.
     2. Technology is simply a means to an end.
