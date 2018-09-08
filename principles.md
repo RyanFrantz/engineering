@@ -25,9 +25,12 @@ I believe these hold.
       1. Write design documents, RFCs, and conduct recorded (written, at least)
          architecture reviews. Write useful code comments. All of these are
          accessibility features.
-5. Software is malleable and ephemeral; product is not.
+5. We design for failure.
+    1. We believe we can build solutions that work but we strive to design them
+       at least for the failure cases we expect.
+6. Software is malleable and ephemeral; product is not.
     1. Availability and reliable functionality of features and APIs must persist.
        How that is delivered is free to change.
-6. Proofs-of-concept are highly flammable.
+7. Proofs-of-concept are highly flammable.
     1. Be willing to burn them down and start again.
     2. On the other hand, they can unexpectedly light up and take off.
