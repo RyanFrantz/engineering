@@ -20,14 +20,14 @@ I believe these hold.
 4. Decision-making is as critical as the end result.
     1. Chosen languages, architectures, design patterns, vendors, and more are
        chosen for various reasons and applied for specific purposes.
-    2. Leave yourself and other breadcrumbs that provide useful context on the
+    2. Leave yourself and others breadcrumbs that provide useful context on the
        what, why, how, and when of those decisions.
       1. Write design documents, RFCs, and conduct recorded (written, at least)
          architecture reviews. Write useful code comments. All of these are
          accessibility features.
 5. We design for failure.
     1. We believe we can build solutions that work but we strive to design them
-       at least for the failure cases we expect.
+       at least for the failure cases we can anticipate.
 6. Software is malleable and ephemeral; product is not.
     1. Availability and reliable functionality of features and APIs must persist.
        How that is delivered is free to change.
