@@ -5,6 +5,10 @@ They are ideals I aspire to when I design, build, and manage systems. There are
 certainly edge cases where they may not always apply but, for the most part,
 I believe these hold.
 
+This set is by no means exhaustive and subject to change as we learn new things
+or think deeper on issues. It is, however, intended to be relatively short in
+the hope that it will be easier to remember and internalize.
+
 1. We write software for, and with, other people.
     1. Engineering is a social endeavor.
     2. Technology is simply a means to an end.
