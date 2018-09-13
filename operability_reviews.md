@@ -30,7 +30,7 @@ until a successful Operability Review is completed.
 
 ## When does it occur?
 
-After an architecture review and generally _no sooner than a sprint (~2 weeks)
+After an architecture review and generally _no sooner than 1-2 weeks
 before launch_.
 
 ## Who attends?
@@ -38,10 +38,10 @@ before launch_.
 Typically those with direct knowledge of the system and those that may consume
 it will be in attendance. These people, among others, will include:
 
-* Product/Project/Program managers
-* Team leads
 * The team or working group who has prepared for the launch
-* Key stakeholders who may be supporting elements of this product
+* Key stakeholders who may be supporting elements of this product (i.e.
+  customer-facing teams)
+* Product/Project/Program managers
 
 ## What do we discuss?
 
