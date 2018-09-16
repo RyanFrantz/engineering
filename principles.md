@@ -35,6 +35,6 @@ the hope that it will be easier to remember and internalize.
 6. Software is malleable and ephemeral; product is not.
     1. Availability and reliable functionality of features and APIs must persist.
        How that is delivered is free to change.
-7. Proofs-of-concept are highly flammable.
-    1. Be willing to burn them down and start again.
-    2. On the other hand, they can unexpectedly light up and take off.
+    2. Proofs-of-concept are highly flammable.
+        1. Be willing to burn them down and start again.
+        2. On the other hand, they can unexpectedly light up and take off.
