@@ -76,8 +76,7 @@ end, during a review, questions like the following should be raised:
 * Have we discussed trade-offs (using existing systems already in place versus
   this proposal)? 
 * Do we understand the costs of this architecture?
-  * Do we have an idea of the effect of technical debt? Are we paying any down?
-    Or creating more?
+  * What are the known trade-offs? What were the criteria for making choices?
   * Is there additional work that may be required (i.e. migrations) as a result
     of doing this work?
 * Do we understand what the long term maintenance of this architecture will be? 
