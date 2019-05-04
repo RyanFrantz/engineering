@@ -11,7 +11,8 @@ the hope that it will be easier to remember and internalize.
 
 1. We write software for, and with, other people.
     1. Engineering is a social endeavor.
-    2. Technology is simply a means to an end.
+    2. Technology is simply a means to an end. Define/understand the expected value
+       of a thing before building it.
     3. All other principles flow from this.
 2. We are always learning.
     1. Success is often a lucky accident and failure is inevitable. In both cases
@@ -29,10 +30,17 @@ the hope that it will be easier to remember and internalize.
       1. Write design documents, RFCs, and conduct recorded (written, at least)
          architecture reviews. Write useful code comments. All of these are
          accessibility features.
-5. We design for failure.
+      2. Be explicit; call out the trade-offs that have been made to add clarity
+         to the direction and intent of the work.
+5. All software has costs.
+    1. Costs come in many forms including money, time (to learn, implement),
+       operational requirements.
+    2. These costs must be understood (at least called out) to help determine
+       which are worth paying to deliver value.
+6. We design for failure.
     1. We believe we can build solutions that work but we strive to design them
        at least for the failure cases we can anticipate.
-6. Software is malleable and ephemeral; product is not.
+7. Software is malleable and ephemeral; product is not.
     1. Availability and reliable functionality of features and APIs must persist.
        How that is delivered is free to change.
     2. Proofs-of-concept are highly flammable.
