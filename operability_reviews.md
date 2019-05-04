@@ -110,13 +110,14 @@ GameDay/Chaos events, postmortem reviews).
 #### Pre-production
 * Has any of the system/product been in production for some time already?
 * If not, could it have been?
+  * If so, why did we choose not to do so?
 
 #### Feature Flags and Ramped Launching
 
 * Do we have any on/off switches for this system/product launch?
 * Is it possible to turn up this system/product on a percentage basis or launch
 it dark?
-* If so, provide links to relevant documentation.
+  * If so, provide links to relevant documentation.
 
 
 
