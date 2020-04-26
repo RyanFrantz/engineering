@@ -15,8 +15,9 @@ the hope that it will be easier to remember and internalize.
        of a thing before building it.
     3. All other principles flow from this.
 2. We are always learning.
-    1. Success is often a lucky accident and failure is inevitable. In both cases
-       we make a point to study the outcomes and the actions that led to them.
+    1. Despite our best efforts, failure is inevitable. Success requires diligence
+       and hard work. In both cases we make a point to study the outcomes and the
+       actions that contribute to them.
 3. Systems are emergent.
     1. We cannot predict how our systems will be used, how they will grow, or how
        their behaviors may change.
