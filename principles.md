@@ -18,11 +18,19 @@ the hope that it will be easier to remember and internalize.
     1. Success is often a lucky accident and failure is inevitable. In both cases
        we make a point to study the outcomes and the actions that led to them.
 3. Systems are emergent.
-    1. For the properties we know we build in observability and introspection to
-       ask the system questions.
-    2. For everything else, we try to get comfortable with the reality that we
+    1. We cannot predict how our systems will be used, how they will grow, or how
+       their behaviors may change.
+    2. For the properties we know we build in support for observability and
+       introspection to ask the system questions.
+    3. For everything else, we try to get comfortable with the reality that we
        cannot predict the future and adapt as changes present themselves.
-4. Decision-making is as critical as the end result.
+4. Favor simplicity.
+    1. As much as possible, design components as simply as possible. This supports
+       composability for the problems we need to solve now and those we may
+       encounter in the future.
+    2. Avoid interleaving concerns even if it appears to be efficient now.
+    3. Simplicity may mean more of something, rather than less.
+5. Decision-making is as critical as the end result.
     1. Chosen languages, architectures, design patterns, vendors, and more are
        chosen for various reasons and applied for specific purposes.
     2. Leave yourself and others breadcrumbs that provide useful context on the
@@ -32,15 +40,15 @@ the hope that it will be easier to remember and internalize.
          accessibility features.
       2. Be explicit; call out the trade-offs that have been made to add clarity
          to the direction and intent of the work.
-5. All software has costs.
+6. All software has costs.
     1. Costs come in many forms including money, time (to learn, implement),
        operational requirements.
     2. These costs must be understood (at least called out) to help determine
        which are worth paying to deliver value.
-6. We design for failure.
+7. We design for failure.
     1. We believe we can build solutions that work but we strive to design them
        at least for the failure cases we can anticipate.
-7. Software is malleable and ephemeral; product is not.
+8. Software is malleable and ephemeral; product is not.
     1. Availability and reliable functionality of features and APIs must persist.
        How that is delivered is free to change.
     2. Proofs-of-concept are highly flammable.
