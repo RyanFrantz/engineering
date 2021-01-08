@@ -34,7 +34,7 @@ evolution of our systems and are a concrete example of our engineering culture.
 ## What is an AR not?
 
 ARs are not approval mechanisms. For example, an AR cohort may decide that a
-given approach is not in our interests (i.e. costs outweight benefits) or the
+given approach is not in our interests (i.e. costs outweigh benefits) or the
 given problem doesn't need to be addressed at the time. The engineers presenting
 the given problem may choose to proceed with the work. They can do so, knowing
 the consensus has been documented, at least.
