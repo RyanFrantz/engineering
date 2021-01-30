@@ -1,9 +1,9 @@
 # Architecture Reviews
 
 ["Engineers cause change... We immediately run into three practical difficulties
-when we consider the engineer's change: the engineer doesn't know where he is
-going, how he is going to get there or if anyone will care when he
-does".](https://files.eric.ed.gov/fulltext/ED276572.pdf)
+when we consider the engineer's change: the engineer doesn't know where [they are]
+going, how [they are] going to get there or if anyone will care when [they
+do]".](https://files.eric.ed.gov/fulltext/ED276572.pdf)
 
 ["Technology choices don't happen in isolation. They have a scope that touches
 your entire team, organization, and the system that emerges from the sum total
