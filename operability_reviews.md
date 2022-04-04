@@ -18,7 +18,7 @@ limited to, the following:
 The review is an opportunity to broadly communicate the status of a system or
 product ahead of its launch, to demonstrate our confidence in its readiness,
 and to receive feedback crucial to the success of its launch. An Operability
-Review reinforces our shared practices encourages us to design resilient
+Review reinforces our shared practices and encourages us to design resilient
 solutions.
 
 ### Deferred Launch
@@ -54,7 +54,7 @@ concerns are still important, but may not apply in all situations.
 
 #### Documentation
 
-* Describe, in a sentence, what the system/product is and what problem is
+* Describe, in a sentence, what the system/product is and what problem it
 solves/solution it provides.
 * Does this launch involve any new infrastructure? 
 * Describe how updates are deployed to production.
