@@ -39,6 +39,8 @@ the hope that it will be easier to remember and internalize.
       1. Write design documents, RFCs, and conduct recorded (written, at least)
          architecture reviews. Write useful code comments. All of these are
          accessibility features.
+         1. Think of this activity as bringing others along with you. These artifacts
+            are useful signposts for your peers.
       2. Be explicit; call out the trade-offs that have been made to add clarity
          to the direction and intent of the work.
 6. All software has costs.
